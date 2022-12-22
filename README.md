@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-t-1p8_hAYg](https://www.frontendmentor.io/solutions/news-homepage-t-1p8_hAYg)
 - Live Site URL: [https://martastepaniuk.github.io/news-homepage/](https://martastepaniuk.github.io/news-homepage/)
 
 ## My process
